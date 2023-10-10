@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-In this project, we explored the world of Baccarat, a card game similar to Blackjack in its initial setup. The project involved implementing changes based on UML diagrams, showcasing the ability to work with abstract classes, extend them, and adeptly override and overload methods. This project not only served as an exploration of the unique rules and dynamics of Baccarat but also showcases some of my software development capabilities.
+In this project, I created behavior that simulated an odometer with multiple dials, representing the distance in tenths of a mile. The challenge involved adding data members to classes, writing methods that utilized loops and decision-making, creating and interacting with objects, and testing expectations about object state and method return values. I also demonstrate how to use UMLs to implement code. 
 <h2>Languages and Utilities Used</h2>
 
 - <b>Java</b> 
