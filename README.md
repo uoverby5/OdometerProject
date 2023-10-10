@@ -1,10 +1,9 @@
-<h1>Java - OdometerProject</h1>
+<h1>Java - BaccaratGame</h1>
 
 
 
 <h2>Description</h2>
-In this project, we had to simulate the behavior of an odometer with multiple dials, representing distance in tenths of a mile. The concept behind this project was to model an odometer with multiple individual dials, where each dial represented a different digit of the distance traveled. As the car moved, the right-most dial measured tenths of a mile. I was able to successfully create a simulation that emulated this behavior, providing a practical and educational exercise in object-oriented programming and data manipulation.
-
+In this project, we explored the world of Baccarat, a card game similar to Blackjack in its initial setup. The project involved implementing changes based on UML diagrams, showcasing the ability to work with abstract classes, extend them, and adeptly override and overload methods. This project not only served as an exploration of the unique rules and dynamics of Baccarat but also showcases some of my software development capabilities.
 <h2>Languages and Utilities Used</h2>
 
 - <b>Java</b> 
@@ -12,4 +11,11 @@ In this project, we had to simulate the behavior of an odometer with multiple di
 <h2>Environments Used </h2>
 
 - <b>Eclipse IDE
+- <b>Git
+
+<h2>UML Screenshot </h2>
+<p align="center">
+Launch the utility: <br/>
+<img src="https://imgur.com/PI9HMTf.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+<br />
 
